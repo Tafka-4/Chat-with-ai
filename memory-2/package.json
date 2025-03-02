@@ -1,0 +1,25 @@
+{
+  "name": "memory-2",
+  "version": "1.0.0",
+  "description": "LLM memory test 2",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tafka-4/Chat-with-ai.git"
+  },
+  "author": "Tafka_4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tafka-4/Chat-with-ai/issues"
+  },
+  "homepage": "https://github.com/Tafka-4/Chat-with-ai#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.86.1",
+    "pythonia": "^1.2.2"
+  },
+  "type": "module"
+}
